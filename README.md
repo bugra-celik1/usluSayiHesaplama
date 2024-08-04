@@ -1,0 +1,1 @@
+# Klavyeden girilen sayı ve üs değerine göre üslü sayı hesaplar..
